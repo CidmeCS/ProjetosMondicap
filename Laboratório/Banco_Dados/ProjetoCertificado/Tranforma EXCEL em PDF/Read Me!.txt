@@ -1,0 +1,76 @@
+Program Version: 6.2.1311.22160
+Language: Russian, English, and other
+
+Treatment: Complete
+Type of medicine: crack
+
+System requirements:
+
+Operating system: Windows 2000, Windows XP, Windows 2003 Server, Windows Vista, Windows 2008, Windows 7, Windows 8, Windows 8.1 or Windows Server 2012
+
+Both 32 and 64-bit versions of Windows
+
+Universal Document Converter does not print from applications running in emulation mode MS DOS
+
+Processor: Intel Pentium III 500 MHz or higher
+
+RAM: 512 MB
+
+Free disk space: 40 MB for program files, 100 MB of graphics files, 100 MB swap file
+
+Description:
+
+Universal Document Converter - is the most complete solution for converting documents of any type into Adobe PDF files or image files. Its basis is the technology of
+ virtual printing. Therefore, export the selected format documents Microsoft Word, tables Microsoft Excel, Microsoft PowerPoint presentations and Autodesk AutoCAD 
+drawings is as simple as typing on a desktop printer.
+
+Universal Document Converter can help you prepare documents to be published on the website, to protect them from copying and changes when sent by email, save a 
+lot of time preparing presentations PowerPoint, and also simplify the process of sending materials to the printshop or publisher. In addition, by using this program 
+you can reduce the cost of development and implementation of a corporate document.
+
+Pros Universal Document Converter:
+Export into 8 formats. Documents of any type can be exported into Adobe PDF or graphical files in 7 popular formats: TIFF, JPEG, PNG, PCX, DCX, GIF or BMP.
+
+Work with multipage documents. Several documents of various types can be united into one multipage file.
+
+Versatility. The technology of virtual printing makes it possible to convert the selected format documents of any type, including multipage reports, technical 
+drawings and posters.
+
+Practicality. Direct export of a document into a graphical file (instead of printing and scanning a paper copy) economizes on expendable materials and staff time.
+
+Easy to use. For exporting documents of any type into Adobe PDF files or image files to print them using the printer named Universal Document Converter.
+
+Advanced algorithm of quantization. Advanced algorithm for image quantization allows to obtain the highest quality copies even when converting to black and white 
+format.
+
+High resolution. The ability to export documents with a resolution up to 2,400 DPI enables you to save all elements of design of advertising materials and the 
+minutest details of drawings and electronic diagrams.
+
+Automatic margin cropping. The function of automatic cropping of empty margins makes it unnecessary to edit graphical copies of tables and diagrams before placing 
+them in presentations or text documents.
+
+To save system resources. Low consumption of system resources enables you to export documents of practically any size which can contain hundreds of pages.
+
+Flexibility in configuration. Flexibility in configuration program allows you to choose the optimal ratio between the quality of copies of documents and the size
+ of the output files. For example, for publication on the website need small files. On the other hand, for preparing documents to be sent to the printing requires 
+high resolution and compressed without quality loss.
+
+Quick Setup. A profile library (collection of settings with optimal conversions for standard conversion tasks) makes it possible to configure Universal Document 
+Converter with two clicks of the mouse.
+
+Remote use. Compatibility with Microsoft Windows Microsoft Windows Terminal Services and Citrix makes it possible to use Universal Document Converter from remote 
+computers.
+
+Scalability. The possibility to share Universal Document Converter on a separate computer and use it with a job as a network printer can significantly increase the 
+rate of conversion of documents.
+
+COM-interface. Availability COM-interface simplifies the workflow systems with Universal Document Converter.
+
+That Novgorod:
+New algorithm for black and white TIFF files creation
+
+Arabic language included into the program interface
+
+Several improvements and fixed errors in PDF files creation.
+
+The setup program will generate in the keygen and enter the serial number

@@ -1,0 +1,91 @@
+E:\ProjetosVB\RNC\RNC\bin\Debug\RNC.exe
+E:\ProjetosVB\RNC\RNC\bin\Debug\RNC.pdb
+E:\ProjetosVB\RNC\RNC\bin\Debug\RNC.xml
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.vbproj.ResolveComReference.cache
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.frmRNC.resources
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.Resources.resources
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.exe
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.xml
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.pdb
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+F:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.vbproj.ResolveComReference.cache
+F:\ProjetosVB\RNC\RNC\bin\Debug\RNC.exe
+F:\ProjetosVB\RNC\RNC\bin\Debug\RNC.pdb
+F:\ProjetosVB\RNC\RNC\bin\Debug\RNC.xml
+F:\ProjetosVB\RNC\RNC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+F:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.frmRNC.resources
+F:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.Resources.resources
+F:\ProjetosVB\RNC\RNC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ProjetosVB\RNC\RNC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.exe
+F:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.xml
+F:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC\RNC\obj\x86\Debug\RNC.vbproj.ResolveComReference.cache
+F:\Informática\ProjetosVB2\RNC\RNC\bin\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC\RNC\bin\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC\RNC\bin\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC\RNC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Informática\ProjetosVB2\RNC\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+F:\Informática\ProjetosVB2\RNC\RNC\obj\x86\Debug\RNC.frmRNC.resources
+F:\Informática\ProjetosVB2\RNC\RNC\obj\x86\Debug\RNC.Resources.resources
+F:\Informática\ProjetosVB2\RNC\RNC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Informática\ProjetosVB2\RNC\RNC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Informática\ProjetosVB2\RNC\RNC\obj\x86\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC\RNC\obj\x86\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC\RNC\obj\x86\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\bin\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\bin\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\bin\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbproj.ResolveComReference.cache
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmRNC.resources
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.Resources.resources
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+F:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbproj.GenerateResource.Cache
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbproj.ResolveComReference.cache
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.exe
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.xml
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.pdb
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\bin\Debug\RNC.exe
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\bin\Debug\RNC.pdb
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\bin\Debug\RNC.xml
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmRNC.resources
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.Resources.resources
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbproj.ResolveComReference.cache
+G:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.exe
+G:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.xml
+G:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.pdb
+G:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbprojResolveAssemblyReference.cache
+G:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+G:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+G:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmRNC.resources
+G:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.Resources.resources
+G:\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbproj.GenerateResource.Cache
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbprojAssemblyReference.cache
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.exe
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.xml
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.pdb
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\bin\Debug\RNC.exe
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\bin\Debug\RNC.pdb
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\bin\Debug\RNC.xml
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbproj.ResolveComReference.cache
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.frmRNC.resources
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.Resources.resources
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbproj.GenerateResource.cache
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbproj.CoreCompileInputs.cache
+Z:\SANSUNG 1TB\Informática\ProjetosVB2\RNC - Cliente\RNC\obj\x86\Debug\RNC.vbproj.CopyComplete

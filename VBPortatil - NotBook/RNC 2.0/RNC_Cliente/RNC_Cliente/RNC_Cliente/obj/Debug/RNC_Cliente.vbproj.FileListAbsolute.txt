@@ -1,0 +1,72 @@
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\ResolveAssemblyReference.cache
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmRNC.resources
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.Resources.resources
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.vbproj.GenerateResource.Cache
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\ResolveAssemblyReference.cache
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmRNC.resources
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.Resources.resources
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.vbproj.GenerateResource.Cache
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmCodigos.resources
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmMaquina.resources
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.exe
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.pdb
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.xml
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.exe
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.xml
+I:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.pdb
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.exe
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.xml
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.pdb
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.exe
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.pdb
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.xml
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmCodigos.resources
+E:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmMaquina.resources
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.exe
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.xml
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.pdb
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.exe
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.pdb
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.xml
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\ResolveAssemblyReference.cache
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmCodigos.resources
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmMaquina.resources
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmRNC.resources
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.Resources.resources
+D:\VBPortatil - NotBook\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.vbproj.GenerateResource.Cache
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.exe
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.xml
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.pdb
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.exe
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.pdb
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.xml
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\ResolveAssemblyReference.cache
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmCodigos.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmMaquina.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmRNC.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.Resources.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.vbproj.GenerateResource.Cache
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.exe
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.xml
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.pdb
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.exe
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.pdb
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.xml
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\ResolveAssemblyReference.cache
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmCodigos.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmMaquina.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmRNC.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.Resources.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.vbproj.GenerateResource.Cache
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.exe
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.xml
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.pdb
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.exe
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.pdb
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\bin\Debug\RNC_Cliente.xml
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\ResolveAssemblyReference.cache
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmCodigos.resources
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmMaquina.resources
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.frmRNC.resources
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.Resources.resources
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Cliente\RNC_Cliente\RNC_Cliente\obj\Debug\RNC_Cliente.vbproj.GenerateResource.Cache

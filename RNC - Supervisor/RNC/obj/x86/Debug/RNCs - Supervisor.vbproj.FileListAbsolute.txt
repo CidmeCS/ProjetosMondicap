@@ -1,0 +1,63 @@
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\bin\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\bin\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\bin\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNCs - Supervisor.vbproj.ResolveComReference.cache
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.frmDefeito.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.frmDisposicao.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.frmLegenda.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.frmPecasVolume.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.frmRE.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.frmRNC.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.Resources.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\bin\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\bin\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\bin\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNCs - Supervisor.vbproj.ResolveComReference.cache
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmDefeito.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmDisposicao.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmLegenda.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmPecasVolume.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmRE.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmRNC.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.Resources.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmMaquinaConsulta.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmCodigoConsulta.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmEstatistica.resources
+F:\Informática\ProjetosVB2\RNC - Supervisor\RNC\obj\x86\Debug\RNCs - Supervisor.vbproj.GenerateResource.Cache
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNCs - Supervisor.vbprojAssemblyReference.cache
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.exe
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.xml
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.pdb
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\bin\Debug\RNC.exe
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\bin\Debug\RNC.pdb
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\bin\Debug\RNC.xml
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNCs - Supervisor.vbproj.ResolveComReference.cache
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmCodigoConsulta.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmDefeito.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmDisposicao.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmEstatistica.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmLegenda.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmMaquinaConsulta.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmPecasVolume.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmRE.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.frmRNC.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNC.Resources.resources
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNCs - Supervisor.vbproj.GenerateResource.cache
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNCs - Supervisor.vbproj.CoreCompileInputs.cache
+C:\Users\Cid\Documents\Projetos\RNC - Supervisor\RNC\obj\x86\Debug\RNCs - Supervisor.vbproj.CopyComplete

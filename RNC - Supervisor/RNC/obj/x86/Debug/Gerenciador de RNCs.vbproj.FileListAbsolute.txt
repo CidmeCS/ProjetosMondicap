@@ -1,0 +1,57 @@
+E:\ProjetosVB\RNC Gerenciador\RNC\bin\Debug\RNC.exe
+E:\ProjetosVB\RNC Gerenciador\RNC\bin\Debug\RNC.pdb
+E:\ProjetosVB\RNC Gerenciador\RNC\bin\Debug\RNC.xml
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\Gerenciador de RNCs.vbproj.ResolveComReference.cache
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmDefeito.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmPecasVolume.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmRE.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmRNC.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.Resources.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.exe
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.xml
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.pdb
+F:\ProjetosVB\RNC Gerenciador\RNC\bin\Debug\RNC.exe
+F:\ProjetosVB\RNC Gerenciador\RNC\bin\Debug\RNC.pdb
+F:\ProjetosVB\RNC Gerenciador\RNC\bin\Debug\RNC.xml
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\Gerenciador de RNCs.vbproj.ResolveComReference.cache
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmDefeito.resources
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmPecasVolume.resources
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmRE.resources
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmRNC.resources
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.Resources.resources
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.exe
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.xml
+F:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\Gerenciador de RNCs.vbproj.ResolveComReference.cache
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\bin\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\bin\Debug\RNC.pdb
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\bin\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmDefeito.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmPecasVolume.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmRE.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmRNC.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.Resources.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmDisposicao.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmLegenda.resources
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\Gerenciador de RNCs.vbproj.ResolveComReference.cache
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.exe
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.xml
+F:\Informática\ProjetosVB2\RNC Gerenciador - Cópia\RNC\obj\x86\Debug\RNC.pdb

@@ -1,0 +1,80 @@
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\ResolveAssemblyReference.cache
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.Resources.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.vbproj.GenerateResource.Cache
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmCodigoConsulta.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmCodigos.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmDefeito.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmDisposicao.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmEstatistica.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmLegenda.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmMaquina.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmMaquinaConsulta.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmPecasVolume.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmRE.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmRNC.resources
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.exe
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.pdb
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.xml
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.exe
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.xml
+I:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.pdb
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.exe
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.xml
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.pdb
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.exe
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.pdb
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.xml
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\ResolveAssemblyReference.cache
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmCodigoConsulta.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmCodigos.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmDefeito.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmDisposicao.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmEstatistica.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmLegenda.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmMaquina.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmMaquinaConsulta.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmPecasVolume.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmRE.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmRNC.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.Resources.resources
+E:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.vbproj.GenerateResource.Cache
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.exe
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.xml
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.pdb
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.exe
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.pdb
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.xml
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\ResolveAssemblyReference.cache
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmCodigoConsulta.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmCodigos.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmDefeito.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmDisposicao.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmEstatistica.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmLegenda.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmMaquina.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmMaquinaConsulta.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmPecasVolume.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmRE.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmRNC.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.Resources.resources
+G:\VBPortatil - NotBook\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.vbproj.GenerateResource.Cache
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.exe
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.xml
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.pdb
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.exe
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.pdb
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\bin\Debug\RNC_Supervisor.xml
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\ResolveAssemblyReference.cache
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmCodigoConsulta.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmCodigos.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmDefeito.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmDisposicao.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmEstatistica.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmLegenda.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmMaquina.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmMaquinaConsulta.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmPecasVolume.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmRE.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.frmRNC.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.Resources.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Supervisor\RNC_Supervisor\RNC_Supervisor\obj\Debug\RNC_Supervisor.vbproj.GenerateResource.Cache

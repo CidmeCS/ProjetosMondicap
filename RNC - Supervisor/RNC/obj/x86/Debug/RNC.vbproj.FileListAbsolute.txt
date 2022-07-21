@@ -1,0 +1,29 @@
+E:\ProjetosVB\RNC\RNC\bin\Debug\RNC.exe
+E:\ProjetosVB\RNC\RNC\bin\Debug\RNC.pdb
+E:\ProjetosVB\RNC\RNC\bin\Debug\RNC.xml
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.vbproj.ResolveComReference.cache
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.frmRNC.resources
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.Resources.resources
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.exe
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.xml
+E:\ProjetosVB\RNC\RNC\obj\x86\Debug\RNC.pdb
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.vbproj.ResolveComReference.cache
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.exe
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.xml
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.pdb
+E:\ProjetosVB\RNC Gerenciador\RNC\bin\Debug\RNC.exe
+E:\ProjetosVB\RNC Gerenciador\RNC\bin\Debug\RNC.pdb
+E:\ProjetosVB\RNC Gerenciador\RNC\bin\Debug\RNC.xml
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmRNC.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.Resources.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmCodigos.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmDefeito.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmMaquina.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmRE.resources
+E:\ProjetosVB\RNC Gerenciador\RNC\obj\x86\Debug\RNC.frmPecasVolume.resources

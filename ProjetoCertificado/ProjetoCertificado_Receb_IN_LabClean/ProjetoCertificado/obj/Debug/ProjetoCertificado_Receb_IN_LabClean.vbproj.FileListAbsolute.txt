@@ -1,0 +1,16 @@
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\bin\Debug\ProjetoCertificado_Receb_IN_LabClean.exe.config
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\obj\Debug\Interop.UDC.dll
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\obj\Debug\Interop.VBA.dll
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\obj\Debug\ProjetoCertificado_Receb_IN_LabClean.vbproj.ResolveComReference.cache
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\bin\Debug\ProjetoCertificado_Receb_IN_LabClean.exe
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\bin\Debug\ProjetoCertificado_Receb_IN_LabClean.pdb
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\bin\Debug\ProjetoCertificado_Receb_IN_LabClean.xml
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\bin\Debug\Interop.UDC.dll
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\bin\Debug\Interop.VBA.dll
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\obj\Debug\ResolveAssemblyReference.cache
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\obj\Debug\ProjetoCertificado_Receb_IN_LabClean.frmCertificado.resources
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\obj\Debug\ProjetoCertificado_Receb_IN_LabClean.Resources.resources
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\obj\Debug\ProjetoCertificado_Receb_IN_LabClean.vbproj.GenerateResource.Cache
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\obj\Debug\ProjetoCertificado_Receb_IN_LabClean.exe
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\obj\Debug\ProjetoCertificado_Receb_IN_LabClean.xml
+D:\VBPortatil - NotBook\ProjetoCertificado\ProjetoCertificado_Receb_IN_LabClean\ProjetoCertificado\obj\Debug\ProjetoCertificado_Receb_IN_LabClean.pdb

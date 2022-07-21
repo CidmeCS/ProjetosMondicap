@@ -1,0 +1,102 @@
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.exe
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.pdb
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.xml
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\ResolveAssemblyReference.cache
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmCodigoConsulta.resources
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmCodigos.resources
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmDefeito.resources
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmDisposicao.resources
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmMaquina.resources
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmMaquinaConsulta.resources
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmPecasVolume.resources
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmRE.resources
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmRNC.resources
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.Resources.resources
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.vbproj.GenerateResource.Cache
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.exe
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.xml
+I:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.pdb
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.exe
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.xml
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.pdb
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.exe
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.pdb
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.xml
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\ResolveAssemblyReference.cache
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmCodigoConsulta.resources
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmCodigos.resources
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmDefeito.resources
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmDisposicao.resources
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmMaquina.resources
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmMaquinaConsulta.resources
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmPecasVolume.resources
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmRE.resources
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmRNC.resources
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.Resources.resources
+E:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.vbproj.GenerateResource.Cache
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.exe
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.xml
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.pdb
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.exe
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.pdb
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.xml
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\ResolveAssemblyReference.cache
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmCodigoConsulta.resources
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmCodigos.resources
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmDefeito.resources
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmDisposicao.resources
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmMaquina.resources
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmMaquinaConsulta.resources
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmPecasVolume.resources
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmRE.resources
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmRNC.resources
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.Resources.resources
+G:\VBPortatil - NotBook\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.vbproj.GenerateResource.Cache
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.exe
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.pdb
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.xml
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\ResolveAssemblyReference.cache
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmCodigoConsulta.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmCodigos.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmDefeito.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmDisposicao.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmMaquina.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmMaquinaConsulta.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmPecasVolume.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmRE.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmRNC.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.Resources.resources
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.vbproj.GenerateResource.Cache
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.exe
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.xml
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.pdb
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.exe
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\ResolveAssemblyReference.cache
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmCodigoConsulta.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmCodigos.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmDefeito.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmDisposicao.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmMaquina.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmMaquinaConsulta.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmPecasVolume.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmRE.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.frmRNC.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.Resources.resources
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.vbproj.GenerateResource.Cache
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.xml
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.pdb
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.exe.manifest
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.application
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.pdb
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.xml
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.exe.manifest
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.application
+G:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.exe
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.exe
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.xml
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.pdb
+F:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\ResolveAssemblyReference.cache
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.exe.manifest
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\bin\Debug\RNC_Gerenciador.application
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.exe.manifest
+D:\VBPortatil - NotBook\RNC 2.0\RNC_Gerenciador\RNC_Gerenciador\RNC_Gerenciador\obj\Debug\RNC_Gerenciador.application
